@@ -1,1 +1,5 @@
-print('hello world')
+def box():
+    print('****')
+    print('*  *')
+    print('****')
+box()
